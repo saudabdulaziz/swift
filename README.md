@@ -1,6 +1,6 @@
 # swift
 swift projects
-# all my Swift projects are private 😏
+# sorry, but all my Swift projects are confidential 😏
 contact me for more info🙈:
 saudjandal@hotmail.com
 tomtit@windowslive.com
